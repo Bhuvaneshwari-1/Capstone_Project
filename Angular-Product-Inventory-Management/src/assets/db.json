@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "john.doe@example.com",
+      "password": "password123",
+      "firstName": "John",
+      "lastName": "Doe",
+      "location": "New York",
+      "mobileNumber": "1234567890"
+    },
+    {
+      "id": 2,
+      "email": "jane.smith@example.com",
+      "password": "password456",
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "location": "Los Angeles",
+      "mobileNumber": "0987654321"
+    },
+    {
+      "email": "Bhuvana@gmail.com",
+      "password": "789456",
+      "firstName": "Bhuvana",
+      "lastName": "Bhuvi",
+      "location": "Madurai",
+      "mobileNumber": "6382792951",
+      "id": 3
+    },
+    {
+      "email": "es@gmail.com",
+      "password": "789456",
+      "firstName": "es",
+      "lastName": "mu",
+      "location": "Madurai",
+      "mobileNumber": "3265648451",
+      "id": 4
+    },
+    {
+      "email": "bhu@gmail.com",
+      "password": "789456",
+      "firstName": "Bhuvana",
+      "lastName": "m",
+      "location": "Madurai",
+      "mobileNumber": "7894561230",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "id": 1741945725202,
+      "name": "Brinjal",
+      "description": "vegetable",
+      "manufacturer": "plant",
+      "price": 10,
+      "quantity": 2
+    }
+  ]
+}

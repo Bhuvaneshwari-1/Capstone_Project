@@ -1,0 +1,75 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "test@example.com",
+      "password": "password123",
+      "firstName": "John",
+      "lastName": "Doe",
+      "location": "New York",
+      "mobileNumber": "1234567890"
+    },
+    {
+      "email": "subash@gmail.com",
+      "password": "123456",
+      "firstName": "Thanga",
+      "lastName": "Subash",
+      "location": "Madurai",
+      "mobileNumber": "9629303825",
+      "id": "2"
+    },
+    {
+      "email": "buvaneshwari393@gmail.com",
+      "password": "789456",
+      "firstName": "Bhuvaneswari",
+      "lastName": "M",
+      "location": "Madurai",
+      "mobileNumber": "6382792951",
+      "id": "3"
+    },
+    {
+      "id": "954f",
+      "email": "es@gmail.com",
+      "password": "123456",
+      "firstName": "Es",
+      "lastName": "mu",
+      "location": "Madurai",
+      "mobileNumber": "2351545131"
+    }
+  ],
+  "products": [
+    {
+      "id": 1742098753996,
+      "name": "Bike",
+      "description": "red",
+      "manufacturer": "Honda",
+      "price": 100000,
+      "quantity": 1
+    },
+    {
+      "id": 1742098866104,
+      "name": "Veg",
+      "description": "green",
+      "manufacturer": "plants",
+      "price": 20,
+      "quantity": 5
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
